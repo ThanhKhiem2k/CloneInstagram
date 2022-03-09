@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "700199197437",
+    "project_id": "socialinstaapp-d3aeb",
+    "storage_bucket": "socialinstaapp-d3aeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700199197437:android:736d9743d8503325c67c94",
+        "android_client_info": {
+          "package_name": "com.thanhkhiem.socialinstaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700199197437-4dpfisorufm4pcgmsge8lktn7ta2u0io.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thanhkhiem.socialinstaapp",
+            "certificate_hash": "c9a02059ae3e89b4e18034ef3588ea93112be212"
+          }
+        },
+        {
+          "client_id": "700199197437-g253m2mlith8l2d9dlsmokoj67mi8rq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhkXxv7JdCtO3fQDZtdEL2Hk28N0GlqZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700199197437-g253m2mlith8l2d9dlsmokoj67mi8rq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
